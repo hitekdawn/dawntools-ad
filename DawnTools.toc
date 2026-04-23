@@ -1,8 +1,8 @@
-## Interface: 120001
+## Interface: 120005
 ## Title: |cFFFF5050Dawn|rTools
 ## Notes: Dawn Community - https://discord.gg/dawneu
 ## Author: Hitek
-## Version: 2026.02.24-ad
+## Version: 2026.04.23-ad
 ## OptionalDependencies: Ace3, LibRealmInfo, LibDBIcon, LibDataBroker-1.1
 ## SavedVariables: DawnToolsDB
 ## IconTexture: Interface\AddOns\DawnTools\media\dawnLogo
